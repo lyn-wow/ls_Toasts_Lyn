@@ -1,0 +1,6 @@
+## Interface: 70000
+## Author: Lyn
+## Title: |cff1a9fc0ls:|r Toasts -Lyn
+## Notes: LynUI skin for ls: Toasts
+
+core.lua
